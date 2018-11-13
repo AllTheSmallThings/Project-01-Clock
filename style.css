@@ -1,0 +1,20 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: url('https://pbs.twimg.com/media/DMmGQCrW4AA8B-Y.jpg');
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover;
+}
+p{
+  font-size: 2.5rem;
+  font-family: 'Nova Mono', monospace;
+  color: white;
+}
+h1{
+  font-size: 4rem;
+  font-family: 'Nova Mono', monospace;
+  letter-spacing: 3px;
+  color: black;
+}
